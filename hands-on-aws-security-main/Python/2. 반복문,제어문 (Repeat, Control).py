@@ -4,31 +4,36 @@
 # 원하는 키 입력
 
 # 반복문 (Repeat)
-# while True:
-#     print(1)
-#     break
+#while True:
+#    print(1)
+#    break
+
+#a = 5
+#while a >= 5:
+#    a -= 1
+#    print(a)
 
 # a = 5
 # while a >= 5:
 #     a -= 1
 #     print(a)
 
-# for i in [1, 2, 3, 4, 5, 6]:
-#     print(i)
+#for i in [1, 2, 3, 4, 5, 6]:
+#    print(i)
 
-# for i in range(1, 10):
-#     for j in range(1, 10):
-#         # continue
-#         print(f"{i} * {j} = {i * j}")
-#     # continue
-#     # break
+#for i in range(1, 10):
+#    for j in range(1, 10):
+    #continue
+#        print(f"{i} * {j} = {i * j}")
+    #continue
+    #break
 
 # 제어문(조건문) (Control(Condition))
-# test = "asdf"
-# b = 2
-# c = False
-# if not c:
-#     print("종료합니다.")
+#test = "asdf"
+#b = 2
+#c = False
+#if not c:
+#    print("종료합니다.")
 
 # d = [1]
 # if 2 not in d:
